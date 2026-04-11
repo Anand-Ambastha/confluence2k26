@@ -1,0 +1,10 @@
+WiFi (built-in ESP32)
+Blynk by Volodymyr Shymanskyy
+DHT sensor library by Adafruit
+Adafruit Unified Sensor
+Adafruit BMP280 Library
+MPU6050 by Electronic Cats
+Adafruit SSD1306
+Adafruit GFX Library
+TinyGPS++ by Mikal Hart
+Wire (built-in)
