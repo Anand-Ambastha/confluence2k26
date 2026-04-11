@@ -1,4 +1,3 @@
-```markdown
 # ⛏️ Smart Miner Safety Monitoring System (ESP32)
 
 ## 📌 Overview
@@ -129,8 +128,6 @@ To convert this simulation into a real-world miner safety system:
 
 Below is the simulation setup created in Wokwi showing all connections between ESP32 and sensors:
 
-```
-
 [ESP32] ─── I2C ─── [MPU6050]
 │
 ├── I2C ─── [OLED Display]
@@ -145,7 +142,6 @@ Below is the simulation setup created in Wokwi showing all connections between E
 │
 └── GPIO2 ─── [LED]
 
-```
 
 > 📌 Note: In Wokwi, gas sensors and oxygen sensor are simulated using potentiometers.
 
@@ -158,5 +154,5 @@ This project demonstrates a reliable and scalable **smart safety system for mine
 ---
 
 ## 👩‍💻 Author
-**Ananya Suman**
-```
+**Anand Ambastha**
+
