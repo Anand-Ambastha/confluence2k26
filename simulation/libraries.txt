@@ -1,0 +1,13 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+# Automatically added based on includes:
+DHT sensor library
+Adafruit GFX Library
+
+DHT sensor library for ESPx
+Adafruit BME280 Library
+Adafruit SSD1306
+Adafruit BusIO
+Adafruit BMP280 Library
+MPU6050
