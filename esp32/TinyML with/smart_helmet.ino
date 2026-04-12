@@ -2,7 +2,7 @@
 // SMART SAFETY HELMET (FINAL WORKING VERSION)
 // ============================================================
 
-#define BLYNK_TEMPLATE_ID "TMPL3SJyrLOuo"
+#define BLYNK_TEMPLATE_ID ""
 #define BLYNK_TEMPLATE_NAME "Smart Helmet"
 #define BLYNK_PRINT Serial
 
@@ -28,9 +28,9 @@
 #include <cmath>
 
 // -------- CREDENTIALS --------
-char auth[] = "OHik1IXJWVapBvjac_f9ZUmKKjdutE2n";
-char ssid[] = "Excitel_Benzo4";
-char pass[] = "Deter@y@";
+char auth[] = "";
+char ssid[] = "";
+char pass[] = "";
 
 // -------- PINS --------
 #define DHT_PIN 4
