@@ -1,6 +1,6 @@
 # 🚀 Heliosphere – AI Smart Helmet System
 
-🏆 Developed for Confluence2k26
+## 🏆 Developed for Confluence2k26
 
 ---
 
