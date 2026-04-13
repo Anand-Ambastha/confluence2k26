@@ -64,7 +64,7 @@ Risk Prediction → Alerts + Cloud + Display
 
 ---
 ## 📂 Repository Structure
-
+'''
 ConfluenceK26/
 │
 ├── esp32/
@@ -87,7 +87,7 @@ ConfluenceK26/
 │   ├── initial/
 │
 └── README.md
-
+'''
 ---
 
 ## ⚙️ Key Features
