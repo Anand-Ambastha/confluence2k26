@@ -1,10 +1,9 @@
 # 🚀 Heliosphere – AI Smart Helmet System
-
-## 🏆 Developed for Confluence2k26
+ 🏆 Developed for Confluence2k26
 
 ---
 
-📌 Executive Summary
+## 📌 Executive Summary
 
 Heliosphere is an edge-AI powered smart helmet system designed for real-time safety monitoring in road and industrial environments.
 
@@ -18,11 +17,13 @@ Unlike traditional safety systems that rely on static thresholds, Heliosphere de
 
 ---
 
-🆕 System Evolution
 
-🟢 Version 1.0 — Rule-Based Prototype
+## 🆕 System Evolution
 
-📅 April 2026
+
+### 🟢 Version 1.0 — Rule-Based Prototype
+
+📅 10 April 2026
 
 - Threshold-based alerts
 - Basic helmet safety logic
@@ -30,9 +31,9 @@ Unlike traditional safety systems that rely on static thresholds, Heliosphere de
 
 ---
 
-🔵 Version 2.0 — Heliosphere (AI System)
+### 🔵 Version 2.0 — Heliosphere (AI System)
 
-📅 April 2026
+📅 13 April 2026
 
 - TinyML-based prediction on ESP32
 - Multi-sensor fusion
@@ -50,7 +51,7 @@ Unlike traditional safety systems that rely on static thresholds, Heliosphere de
 
 ---
 
-🧠 System Architecture
+## 🧠 System Architecture
 
 Sensors → Feature Engineering → Normalization → TinyML Model →
 Risk Prediction → Alerts + Cloud + Display
@@ -62,7 +63,7 @@ Risk Prediction → Alerts + Cloud + Display
 [![Watch Heliosphere Demo](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
-📂 Repository Structure
+## 📂 Repository Structure
 
 ConfluenceK26/
 │
@@ -89,7 +90,7 @@ ConfluenceK26/
 
 ---
 
-⚙️ Key Features
+## ⚙️ Key Features
 
 - Real-time sensor monitoring
 - Edge AI inference (TinyML)
@@ -101,7 +102,7 @@ ConfluenceK26/
 
 ---
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 
 - ESP32
 - Arduino (C/C++)
@@ -111,7 +112,7 @@ ConfluenceK26/
 
 ---
 
-🔌 Hardware
+## 🔌 Hardware
 
 - ESP32
 - MPU6050
@@ -125,7 +126,7 @@ ConfluenceK26/
 
 ---
 
-🎯 Applications
+## 🎯 Applications
 
 - Smart road safety
 - Industrial worker protection
@@ -134,7 +135,7 @@ ConfluenceK26/
 
 ---
 
-🚧 Future Scope
+## 🚧 Future Scope
 
 - Mobile app integration
 - Cloud analytics dashboard
@@ -143,7 +144,7 @@ ConfluenceK26/
 
 ---
 
-👥 Contributors & Responsibilities
+## 👥 Contributors & Responsibilities
 
 - Anand Kumar (Anand Ambastha)
   Role: System Architect & Lead Developer
@@ -183,6 +184,6 @@ ConfluenceK26/
 
 ---
 
-🏁 Positioning
+## 🏁 Positioning
 
 «Heliosphere demonstrates how Edge AI can transform conventional safety systems into intelligent, real-time decision platforms, enabling faster and more reliable responses in critical situations.»
