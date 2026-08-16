@@ -1,9 +1,11 @@
-# 🚀 Heliosphere – AI Smart Helmet System
+<img width="1361" height="107" alt="image" src="https://github.com/user-attachments/assets/5ef954e9-2597-471d-b784-d9cf3b38c632" /># 🚀 Heliosphere – AI Smart Helmet System
  🏆 Developed for Confluence2k26
 
 ---
 
 ## 📌 Executive Summary
+
+<img width="300" alt="WhatsApp Image" src="https://github.com/user-attachments/assets/44ee9400-bf7b-4104-9d84-5f46b8e9b98f" /> <img width="300" alt="image" src="https://github.com/user-attachments/assets/17c795f9-fb7a-45d7-8cfa-8615ba1ff116" />
 
 Heliosphere is an edge-AI powered smart helmet system designed for real-time safety monitoring in road and industrial environments.
 
@@ -156,7 +158,15 @@ ConfluenceK26/
   - Debugging, optimization, and final system integration
 
 ---
-
+- Sonvi Goyal
+  Role: Hardware Lead & Integration
+  Contributions:
+  - Managed the complete physical assembly of the smart helmet chassis
+  - Integrated and wired the ESP32 microcontroller and all sensor modules
+  - Coordinated hardware-software integration to ensure all physical components and code connected and functioned together seamlessly
+  - Ensured hardware-level stability and a secure form factor for real-world testing
+ 
+  ---
 - Ananya Suman
   Role: Team Lead & Presentation Design
   Contributions:
@@ -172,15 +182,6 @@ ConfluenceK26/
   - Prepared technical paper and documentation
   - Assisted in system explanation and methodology writing
   - Contributed to report structuring
-
----
-
-- Sonvi Goyal
-  Role: Documentation & Compilation
-  Contributions:
-  - Compiled project reports and supporting documents
-  - Assisted in formatting and organizing documentation
-  - Ensured clarity and consistency in written materials
 
 ---
 
